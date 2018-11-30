@@ -1,0 +1,22 @@
+name: self-driving
+channels:
+  - https://conda.anaconda.org/menpo
+  - conda-forge
+depedencies:
+  - python==3.6
+  - numpy
+  - matplotlib
+  - jupyter
+  - opencv3
+  - pillow
+  - scikit-learn
+  - scikit_image
+  - eventlet
+  - flask-socketio
+  - seaborn
+  - pandas
+  - imageio
+  - python-engineio==2.2.0
+  - pip:
+      - tensorflow
+      - keras
