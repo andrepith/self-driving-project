@@ -1,4 +1,4 @@
-CD on directory file
+you can use my training set, visit https://github.com/andrepith/Track
 
 use 'conda env create -f environments.yml' to create virtual environment
 
